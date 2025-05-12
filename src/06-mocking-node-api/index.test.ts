@@ -1,5 +1,4 @@
 import { doStuffByTimeout, doStuffByInterval } from '06-mocking-node-api';
-import * as path from 'path';
 
 jest.useFakeTimers();
 
